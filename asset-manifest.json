@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/nontonMovie/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/nontonMovie/static/js/main.17e83490.chunk.js",
+    "main.js.map": "/nontonMovie/static/js/main.17e83490.chunk.js.map",
+    "runtime-main.js": "/nontonMovie/static/js/runtime-main.bf00b300.js",
+    "runtime-main.js.map": "/nontonMovie/static/js/runtime-main.bf00b300.js.map",
+    "static/js/2.c3b444c6.chunk.js": "/nontonMovie/static/js/2.c3b444c6.chunk.js",
+    "static/js/2.c3b444c6.chunk.js.map": "/nontonMovie/static/js/2.c3b444c6.chunk.js.map",
+    "static/js/3.e841f060.chunk.js": "/nontonMovie/static/js/3.e841f060.chunk.js",
+    "static/js/3.e841f060.chunk.js.map": "/nontonMovie/static/js/3.e841f060.chunk.js.map",
+    "index.html": "/nontonMovie/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/nontonMovie/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c3b444c6.chunk.js.LICENSE.txt": "/nontonMovie/static/js/2.c3b444c6.chunk.js.LICENSE.txt",
+    "static/media/dn.40636a67.mp4": "/nontonMovie/static/media/dn.40636a67.mp4",
+    "static/media/dp.33e76888.mp4": "/nontonMovie/static/media/dp.33e76888.mp4",
+    "static/media/logo.6ce24c58.svg": "/nontonMovie/static/media/logo.6ce24c58.svg",
+    "static/media/sg.7c79de2b.mp4": "/nontonMovie/static/media/sg.7c79de2b.mp4",
+    "static/media/video.ada2f46c.mp4": "/nontonMovie/static/media/video.ada2f46c.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf00b300.js",
+    "static/js/2.c3b444c6.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.17e83490.chunk.js"
+  ]
+}
